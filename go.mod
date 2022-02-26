@@ -1,3 +1,3 @@
-module github.com/gghost2000/coin-study
+module coin
 
 go 1.17
